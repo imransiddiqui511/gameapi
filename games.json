@@ -1,0 +1,444 @@
+{
+    "err": false,
+    "msg": "Successfully retrive stream users.",
+    "activeStreams": [
+        {
+            "_id": "61a246bd6fb052002397dd0f",
+            "viewers": [],
+            "userId": "61977faf53e5b20023e00ece",
+            "title": "Imran Neaxus",
+            "tags": "Imran Neaxus",
+            "thumbnail": "http://res.cloudinary.com/livekar/image/upload/v1638018585/live_thumbnails/xh1y3sg6lzm1su7vagji.jpg",
+            "createdAt": "2021-11-27T14:54:53.321Z",
+            "updatedAt": "2021-11-27T15:06:51.403Z",
+            "startAt": "2021-11-27T14:54:54.000Z",
+            "endAt": "2021-11-27T14:55:08.000Z",
+            "user": {
+                "_id": "61977faf53e5b20023e00ece",
+                "coins": {
+                    "level": 1,
+                    "display": 5800,
+                    "all": 5800
+                },
+                "gems": {
+                    "level": 1,
+                    "display": 0,
+                    "all": 0
+                },
+                "status": {
+                    "status": "active"
+                },
+                "blockedusers": [],
+                "gender": "male",
+                "accountCreatedType": "gmail",
+                "email": "imranneaxus@gmail.com",
+                "name": "Imran Neaxus",
+                "refrenceId": "112263702946794947371",
+                "displayId": "324048610",
+                "username": "livekar324048610",
+                "OTP": "5323",
+                "streamBanner": [
+                    {
+                        "status": "approved",
+                        "_id": "61a22e1a6fb052002397d542",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638018585/live_thumbnails/xh1y3sg6lzm1su7vagji.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a22e7a6fb052002397d57a",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638018681/live_thumbnails/wlbxc7xodly5njjumioj.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a2340e6fb052002397d883",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638020110/live_thumbnails/z0gadgnv9yfdgkxowekf.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a234606fb052002397d8cf",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638020192/live_thumbnails/mahmig1o6ydqoosnugpy.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a2375f6fb052002397d9dd",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638020958/live_thumbnails/pznb0sk6aabyfpkv53ef.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a237e26fb052002397da15",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638021089/live_thumbnails/ubqzyt3sd770ysabnioh.jpg"
+                    }
+                ],
+                "createdAt": "2021-11-19T10:42:55.576Z",
+                "updatedAt": "2021-11-27T14:56:48.089Z",
+                "deviceToken": "eTVYkRTARt6c6nKBZ72Rck:APA91bH2XRrIoG-D30r1cF6NDRRojTm9Z8NPyEgTvB63EAqo1w0LNP6N6wdUQbfbBSRO5FxVAjPH9wbqRECVUWbnyMWGofYuNfker25sLWvexD0N9KfuZ_nfV16IQbCxOxZ4JhLzyUKa",
+                "streamId": "61a246bd6fb052002397dd0f",
+                "socketId": "G4CS5Cf4_lBRpIYJAACY",
+                "deviceId": "77394fab3f01a8b3",
+                "profileUrl": "http://res.cloudinary.com/livekar/image/upload/v1638009160/profile_photos/hroe0wgtrwddmsd064ru.jpg",
+                "social": {
+                    "instagram": "imsidd000"
+                },
+                "isTalent": "accepted"
+            }
+        },
+        {
+            "_id": "619f5d5c74316c00236b400e",
+            "viewers": [],
+            "userId": "619de2e22bdaf3002343c108",
+            "title": "Everything Plus",
+            "tags": "Everything Plus",
+            "thumbnail": "https://res.cloudinary.com/livekar/image/upload/v1634058576/live_thumbnails/ue94lhxym6ipkic9iyrq.jpg",
+            "createdAt": "2021-11-25T09:54:36.155Z",
+            "updatedAt": "2021-11-27T14:10:40.386Z",
+            "startAt": "2021-11-25T09:54:40.000Z",
+            "endAt": "2021-11-25T09:59:23.000Z",
+            "user": {
+                "_id": "619de2e22bdaf3002343c108",
+                "coins": {
+                    "level": 1,
+                    "display": 100000,
+                    "all": 100000
+                },
+                "gems": {
+                    "level": 1,
+                    "display": 1000,
+                    "all": 1000
+                },
+                "status": {
+                    "status": "active"
+                },
+                "blockedusers": [],
+                "gender": "male",
+                "accountCreatedType": "gmail",
+                "email": "sid786imran2@gmail.com",
+                "name": "Everything Plus",
+                "refrenceId": "116237413875357767038",
+                "displayId": "324048613",
+                "username": "livekar324048613",
+                "OTP": "7235",
+                "streamBanner": [],
+                "createdAt": "2021-11-24T06:59:46.952Z",
+                "updatedAt": "2021-11-26T09:58:32.542Z",
+                "streamId": "619f5d5c74316c00236b400e",
+                "socketId": "J-CwqMxvrVlWKvPzAAAL",
+                "deviceId": "77394fab3f01a8b3",
+                "deviceToken": "d8uRn0JSSoasuHzctz9e7o:APA91bHUU_6l1F78lcJqDLlK8MLDwjg_3Yu9UCmDn_FyDwT2ATw-J5S7vDjF0jOLbKywguHj1DlqM8Xbs279BpYkzzzASXtbzwAbHvRZ3tR_wiD4wHnx94nEplUvzhKaOzx_ToG4ycJ7"
+            }
+        },
+        {
+            "_id": "61a1fc7d398e99002376dd28",
+            "viewers": [],
+            "userId": "6199e68f78fb7f0023aa9cd4",
+            "title": "Imran Siddiqui",
+            "tags": "Imran Siddiqui",
+            "thumbnail": "https://res.cloudinary.com/livekar/image/upload/v1634058576/live_thumbnails/ue94lhxym6ipkic9iyrq.jpg",
+            "createdAt": "2021-11-27T09:38:05.482Z",
+            "updatedAt": "2021-11-27T14:05:22.991Z",
+            "startAt": "2021-11-27T09:38:07.000Z",
+            "endAt": "2021-11-27T09:41:04.000Z",
+            "user": {
+                "_id": "6199e68f78fb7f0023aa9cd4",
+                "coins": {
+                    "level": 1,
+                    "display": 97600,
+                    "all": 100000
+                },
+                "gems": {
+                    "level": 1,
+                    "display": 2511,
+                    "all": 2511
+                },
+                "status": {
+                    "status": "active",
+                    "reason": "",
+                    "time": null
+                },
+                "blockedusers": [],
+                "gender": "male",
+                "accountCreatedType": "gmail",
+                "email": "sid786imran@gmail.com",
+                "name": "Imran Siddiqui",
+                "refrenceId": "116565543361725972699",
+                "displayId": "324048612",
+                "username": "livekar324048612",
+                "OTP": "1441",
+                "streamBanner": [],
+                "createdAt": "2021-11-21T06:26:23.874Z",
+                "updatedAt": "2021-11-27T10:28:30.570Z",
+                "streamId": "61a1fc7d398e99002376dd28",
+                "deviceToken": "fT83vpLXQ2CPBW4ZLNxYQL:APA91bEff05FGkHi1cQAlhFsdeykc_WjIv6fjaZeqPiGrMGNgkKbhMV8SrqwgtHBUMJeIFySj9-7ciHAy7Z0VfirPjoa9mTVL0HLQn-ToRQ0QYjJaZDjeJTRhztQl_t0xdKmpnFbwvmE",
+                "socketId": "ajYh2ENg8cJVER5yAAAL",
+                "deviceId": "77394fab3f01a8b3",
+                "isTalent": "accepted"
+            }
+        },
+        {
+            "_id": "61a20b396fb052002397bb0d",
+            "viewers": [
+                "61977faf53e5b20023e00ece"
+            ],
+            "userId": "61a1e052398e99002376d298",
+            "title": "Arun Saini",
+            "tags": "Arun Saini",
+            "thumbnail": "https://res.cloudinary.com/livekar/image/upload/v1634058576/live_thumbnails/ue94lhxym6ipkic9iyrq.jpg",
+            "createdAt": "2021-11-27T10:40:57.614Z",
+            "updatedAt": "2021-11-27T14:00:01.321Z",
+            "startAt": "2021-11-27T10:40:58.000Z",
+            "endAt": "2021-11-27T10:42:20.000Z",
+            "user": {
+                "_id": "61a1e052398e99002376d298",
+                "coins": {
+                    "level": 1,
+                    "display": 299700,
+                    "all": 300000
+                },
+                "gems": {
+                    "level": 1,
+                    "display": 300,
+                    "all": 300
+                },
+                "status": {
+                    "status": "active"
+                },
+                "blockedusers": [],
+                "gender": "male",
+                "accountCreatedType": "gmail",
+                "email": "aksainiarun01@gmail.com",
+                "name": "Arun Saini",
+                "refrenceId": "104389445944155837798",
+                "displayId": "324048617",
+                "username": "livekar324048617",
+                "OTP": "1627",
+                "streamBanner": [],
+                "createdAt": "2021-11-27T07:37:54.242Z",
+                "updatedAt": "2021-11-27T13:45:09.611Z",
+                "socketId": "xrT7xBXg9Bx9kb7TAACG",
+                "deviceId": "bd1629b8641f3029",
+                "deviceToken": "ccoKUyW0SzKDIvlfKTd6xY:APA91bFgfTaX_D77LAoYZAuEqQYYvzaYmyTNK4Alel5ePmXwcOlM9QiubIlH9JuaFYigK-Xv1b79Af-lQK1-BsZ_EeEXug4PQIXgAwOuB6VY8T5fMmHC-cHBiV_5P5hks98wlyBkl42l",
+                "isTalent": "accepted",
+                "streamId": "61a20b396fb052002397bb0d"
+            }
+        }
+    ],
+    "recentStreams": [
+        {
+            "_id": "61a246bd6fb052002397dd0f",
+            "viewers": [],
+            "userId": "61977faf53e5b20023e00ece",
+            "title": "Imran Neaxus",
+            "tags": "Imran Neaxus",
+            "thumbnail": "http://res.cloudinary.com/livekar/image/upload/v1638018585/live_thumbnails/xh1y3sg6lzm1su7vagji.jpg",
+            "createdAt": "2021-11-27T14:54:53.321Z",
+            "updatedAt": "2021-11-27T15:06:51.403Z",
+            "startAt": "2021-11-27T14:54:54.000Z",
+            "endAt": "2021-11-27T14:55:08.000Z",
+            "user": {
+                "_id": "61977faf53e5b20023e00ece",
+                "coins": {
+                    "level": 1,
+                    "display": 5800,
+                    "all": 5800
+                },
+                "gems": {
+                    "level": 1,
+                    "display": 0,
+                    "all": 0
+                },
+                "status": {
+                    "status": "active"
+                },
+                "blockedusers": [],
+                "gender": "male",
+                "accountCreatedType": "gmail",
+                "email": "imranneaxus@gmail.com",
+                "name": "Imran Neaxus",
+                "refrenceId": "112263702946794947371",
+                "displayId": "324048610",
+                "username": "livekar324048610",
+                "OTP": "5323",
+                "streamBanner": [
+                    {
+                        "status": "approved",
+                        "_id": "61a22e1a6fb052002397d542",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638018585/live_thumbnails/xh1y3sg6lzm1su7vagji.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a22e7a6fb052002397d57a",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638018681/live_thumbnails/wlbxc7xodly5njjumioj.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a2340e6fb052002397d883",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638020110/live_thumbnails/z0gadgnv9yfdgkxowekf.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a234606fb052002397d8cf",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638020192/live_thumbnails/mahmig1o6ydqoosnugpy.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a2375f6fb052002397d9dd",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638020958/live_thumbnails/pznb0sk6aabyfpkv53ef.jpg"
+                    },
+                    {
+                        "status": "approved",
+                        "_id": "61a237e26fb052002397da15",
+                        "bannerUrl": "http://res.cloudinary.com/livekar/image/upload/v1638021089/live_thumbnails/ubqzyt3sd770ysabnioh.jpg"
+                    }
+                ],
+                "createdAt": "2021-11-19T10:42:55.576Z",
+                "updatedAt": "2021-11-27T14:56:48.089Z",
+                "deviceToken": "eTVYkRTARt6c6nKBZ72Rck:APA91bH2XRrIoG-D30r1cF6NDRRojTm9Z8NPyEgTvB63EAqo1w0LNP6N6wdUQbfbBSRO5FxVAjPH9wbqRECVUWbnyMWGofYuNfker25sLWvexD0N9KfuZ_nfV16IQbCxOxZ4JhLzyUKa",
+                "streamId": "61a246bd6fb052002397dd0f",
+                "socketId": "G4CS5Cf4_lBRpIYJAACY",
+                "deviceId": "77394fab3f01a8b3",
+                "profileUrl": "http://res.cloudinary.com/livekar/image/upload/v1638009160/profile_photos/hroe0wgtrwddmsd064ru.jpg",
+                "social": {
+                    "instagram": "imsidd000"
+                },
+                "isTalent": "accepted"
+            }
+        },
+        {
+            "_id": "619f5d5c74316c00236b400e",
+            "viewers": [],
+            "userId": "619de2e22bdaf3002343c108",
+            "title": "Everything Plus",
+            "tags": "Everything Plus",
+            "thumbnail": "https://res.cloudinary.com/livekar/image/upload/v1634058576/live_thumbnails/ue94lhxym6ipkic9iyrq.jpg",
+            "createdAt": "2021-11-25T09:54:36.155Z",
+            "updatedAt": "2021-11-27T14:10:40.386Z",
+            "startAt": "2021-11-25T09:54:40.000Z",
+            "endAt": "2021-11-25T09:59:23.000Z",
+            "user": {
+                "_id": "619de2e22bdaf3002343c108",
+                "coins": {
+                    "level": 1,
+                    "display": 100000,
+                    "all": 100000
+                },
+                "gems": {
+                    "level": 1,
+                    "display": 1000,
+                    "all": 1000
+                },
+                "status": {
+                    "status": "active"
+                },
+                "blockedusers": [],
+                "gender": "male",
+                "accountCreatedType": "gmail",
+                "email": "sid786imran2@gmail.com",
+                "name": "Everything Plus",
+                "refrenceId": "116237413875357767038",
+                "displayId": "324048613",
+                "username": "livekar324048613",
+                "OTP": "7235",
+                "streamBanner": [],
+                "createdAt": "2021-11-24T06:59:46.952Z",
+                "updatedAt": "2021-11-26T09:58:32.542Z",
+                "streamId": "619f5d5c74316c00236b400e",
+                "socketId": "J-CwqMxvrVlWKvPzAAAL",
+                "deviceId": "77394fab3f01a8b3",
+                "deviceToken": "d8uRn0JSSoasuHzctz9e7o:APA91bHUU_6l1F78lcJqDLlK8MLDwjg_3Yu9UCmDn_FyDwT2ATw-J5S7vDjF0jOLbKywguHj1DlqM8Xbs279BpYkzzzASXtbzwAbHvRZ3tR_wiD4wHnx94nEplUvzhKaOzx_ToG4ycJ7"
+            }
+        },
+        {
+            "_id": "61a1fc7d398e99002376dd28",
+            "viewers": [],
+            "userId": "6199e68f78fb7f0023aa9cd4",
+            "title": "Imran Siddiqui",
+            "tags": "Imran Siddiqui",
+            "thumbnail": "https://res.cloudinary.com/livekar/image/upload/v1634058576/live_thumbnails/ue94lhxym6ipkic9iyrq.jpg",
+            "createdAt": "2021-11-27T09:38:05.482Z",
+            "updatedAt": "2021-11-27T14:05:22.991Z",
+            "startAt": "2021-11-27T09:38:07.000Z",
+            "endAt": "2021-11-27T09:41:04.000Z",
+            "user": {
+                "_id": "6199e68f78fb7f0023aa9cd4",
+                "coins": {
+                    "level": 1,
+                    "display": 97600,
+                    "all": 100000
+                },
+                "gems": {
+                    "level": 1,
+                    "display": 2511,
+                    "all": 2511
+                },
+                "status": {
+                    "status": "active",
+                    "reason": "",
+                    "time": null
+                },
+                "blockedusers": [],
+                "gender": "male",
+                "accountCreatedType": "gmail",
+                "email": "sid786imran@gmail.com",
+                "name": "Imran Siddiqui",
+                "refrenceId": "116565543361725972699",
+                "displayId": "324048612",
+                "username": "livekar324048612",
+                "OTP": "1441",
+                "streamBanner": [],
+                "createdAt": "2021-11-21T06:26:23.874Z",
+                "updatedAt": "2021-11-27T10:28:30.570Z",
+                "streamId": "61a1fc7d398e99002376dd28",
+                "deviceToken": "fT83vpLXQ2CPBW4ZLNxYQL:APA91bEff05FGkHi1cQAlhFsdeykc_WjIv6fjaZeqPiGrMGNgkKbhMV8SrqwgtHBUMJeIFySj9-7ciHAy7Z0VfirPjoa9mTVL0HLQn-ToRQ0QYjJaZDjeJTRhztQl_t0xdKmpnFbwvmE",
+                "socketId": "ajYh2ENg8cJVER5yAAAL",
+                "deviceId": "77394fab3f01a8b3",
+                "isTalent": "accepted"
+            }
+        },
+        {
+            "_id": "61a20b396fb052002397bb0d",
+            "viewers": [
+                "61977faf53e5b20023e00ece"
+            ],
+            "userId": "61a1e052398e99002376d298",
+            "title": "Arun Saini",
+            "tags": "Arun Saini",
+            "thumbnail": "https://res.cloudinary.com/livekar/image/upload/v1634058576/live_thumbnails/ue94lhxym6ipkic9iyrq.jpg",
+            "createdAt": "2021-11-27T10:40:57.614Z",
+            "updatedAt": "2021-11-27T14:00:01.321Z",
+            "startAt": "2021-11-27T10:40:58.000Z",
+            "endAt": "2021-11-27T10:42:20.000Z",
+            "user": {
+                "_id": "61a1e052398e99002376d298",
+                "coins": {
+                    "level": 1,
+                    "display": 299700,
+                    "all": 300000
+                },
+                "gems": {
+                    "level": 1,
+                    "display": 300,
+                    "all": 300
+                },
+                "status": {
+                    "status": "active"
+                },
+                "blockedusers": [],
+                "gender": "male",
+                "accountCreatedType": "gmail",
+                "email": "aksainiarun01@gmail.com",
+                "name": "Arun Saini",
+                "refrenceId": "104389445944155837798",
+                "displayId": "324048617",
+                "username": "livekar324048617",
+                "OTP": "1627",
+                "streamBanner": [],
+                "createdAt": "2021-11-27T07:37:54.242Z",
+                "updatedAt": "2021-11-27T13:45:09.611Z",
+                "socketId": "xrT7xBXg9Bx9kb7TAACG",
+                "deviceId": "bd1629b8641f3029",
+                "deviceToken": "ccoKUyW0SzKDIvlfKTd6xY:APA91bFgfTaX_D77LAoYZAuEqQYYvzaYmyTNK4Alel5ePmXwcOlM9QiubIlH9JuaFYigK-Xv1b79Af-lQK1-BsZ_EeEXug4PQIXgAwOuB6VY8T5fMmHC-cHBiV_5P5hks98wlyBkl42l",
+                "isTalent": "accepted",
+                "streamId": "61a20b396fb052002397bb0d"
+            }
+        }
+    ]
+}
